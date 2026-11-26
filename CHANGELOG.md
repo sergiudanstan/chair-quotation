@@ -6,6 +6,11 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-11-26
+
+### Changed
+- README and live page now point to [furniture-quotation](https://github.com/sergiudanstan/furniture-quotation), which supersedes this repository. The repository is archived after this release.
+
 ## [0.1.1] - 2026-11-25
 
 ### Fixed
@@ -29,6 +34,7 @@ https://sergiudanstan.github.io/chair-quotation/.
 - jsPDF 2.x to 4.2.1 (2.x had a critical `npm audit` advisory); the PDF export is exercised by the smoke test.
 - Lockfile refreshed with `npm audit fix` (see `package-lock.json`); `npm audit` now reports 0 vulnerabilities.
 
-[Unreleased]: https://github.com/sergiudanstan/chair-quotation/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/sergiudanstan/chair-quotation/compare/v0.1.2...HEAD
+[0.1.2]: https://github.com/sergiudanstan/chair-quotation/releases/tag/v0.1.2
 [0.1.1]: https://github.com/sergiudanstan/chair-quotation/releases/tag/v0.1.1
 [0.1.0]: https://github.com/sergiudanstan/chair-quotation/releases/tag/v0.1.0
